@@ -16,7 +16,7 @@ The goal is to make learning quick, stress-free, motivating, and fun, especially
 * After tapping "Start", the user enters the quiz.
 * Questions are shown one at a time.
 * The user selects their answer (like True or False).
-* Feedback will pop up telling if the user's answer is correct or incorrect.
+* Feedback will pop up telling the user if's answer is correct or incorrect.
 * This keeps the flow simple— no distractions or complex steps.
 
 ### 3. Score Screen
